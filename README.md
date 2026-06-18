@@ -1,6 +1,5 @@
-<a href="https://github.com/canvasplus">@canvasplus</a>
-<a href="https://github.com/scorecardto">@scorecardto</a>
+<a href="https://github.com/highlight-ing">@highlight-ing</a>
 
-Skills: React, React Native, TypeScript, Python, C++, Java
+Skills: Cloudflare Workers, React, React Native, TypeScript, Python, C++, Java
 
 <a href="https://www.adriancasares.com">My website is adriancasares.com</a>
